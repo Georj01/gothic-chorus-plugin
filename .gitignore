@@ -1,0 +1,25 @@
+# CMake y build files
+build/
+out/
+bin/
+*.ninja
+*.sln
+*.vcxproj
+*.vcxproj.user
+*.filters
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+Testing/
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+
+# JUCE
+JuceLibraryCode/
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
